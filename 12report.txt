@@ -1,0 +1,15 @@
+Sun Jan 21 17:40:51 PST 2024
+user: numfon
+home: /Users/numfon
+shell: /bin/bash
+pwd: /Users/numfon/Code/mcb185_homework
+path: /usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+Darwin marles-MacBook-Pro.local 23.2.0 Darwin Kernel Version 23.2.0: Wed Nov 15 21:54:10 PST 2023; root:xnu-10002.61.3~2/RELEASE_X86_64 x86_64
+Python 3.9.6
+/Users/numfon/Code
+/Users/numfon/Code/mcb185_homework
+/Users/numfon/Code/mcb185_homework/stuff
+/Users/numfon/Code/mcb185_homework/.git
+/Users/numfon/Code/MCB185
+/Users/numfon/Code/MCB185/.git
+/Users/numfon/Code/MCB185/data
