@@ -1,0 +1,1 @@
+gunzip -c ~/Code/MCB185/data/dictionary.gz | grep "a"| grep -v -E "[^muotcfa]"| grep -E ".{4,}" | wc 
